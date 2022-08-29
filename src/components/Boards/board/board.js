@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'; import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import './Board.scss';
 import Introduction from '../board-step-introduction/BoardIntroduction';
 import BoardSelection from '../board-step-selection/BoardSelection';

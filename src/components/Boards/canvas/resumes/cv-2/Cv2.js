@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'; import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import { Stage, Layer, Rect, Circle, Image, Text, Group, Line } from 'react-konva';
 import ImageCall from '../../../../../assets/cv2-assets/phone-call.svg';
 import ImagEmail from '../../../../../assets/cv2-assets/envelope.svg';

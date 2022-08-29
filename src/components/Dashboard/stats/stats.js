@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'; import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import './stats.scss'
 import usersImage from '../../../assets/users.png'
 import resumesImage from '../../../assets/resumes.png'

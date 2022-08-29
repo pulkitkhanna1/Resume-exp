@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'; import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import './Register.scss';
 import GoogleImage from '../../../assets/google.png';
 import FacebookImage from '../../../assets/facebook.png';

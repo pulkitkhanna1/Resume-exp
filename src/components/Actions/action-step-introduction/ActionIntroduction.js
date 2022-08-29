@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'; import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import './ActionIntroduction.scss';
 import conf from '../../../conf/configuration'
 import logo from '../../../assets/logo/logo.png'

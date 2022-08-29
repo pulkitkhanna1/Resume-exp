@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'; import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import addResume, { getResumes, removeResume } from '../../../firestore/dbOperations';
 import { Link } from 'react-router-dom';
 import addResumesImage from '../../../assets/undraw_add_document_0hek.svg'

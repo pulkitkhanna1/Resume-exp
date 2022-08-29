@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'; import {BrowserRouter as Router,Route,Routes} from "react-router-dom"; import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import './Action.scss';
 import ActionIntroduction from '../action-step-introduction/ActionIntroduction'
 import ActionStepSelection from '../action-step-selection/ActionSelection'

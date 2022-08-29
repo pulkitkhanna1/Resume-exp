@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'; import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import './initialisationWrapper.scss'
 import { motion, AnimatePresence } from "framer-motion"
 import InstallationSuccess from '../installationSuccess/installationSuccess'

@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'; import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import './Languages.scss'
 import Arrow from '../../../assets/arrow.png';
 import SimpleInput from '../simple-input/SimpleInput';

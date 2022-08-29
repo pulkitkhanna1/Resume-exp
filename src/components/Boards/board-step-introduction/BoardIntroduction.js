@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'; import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import './BoardIntroduction.scss';
 import PortfolioImage from '../../../assets/portfolio.png';
 class BoardIntroduction extends Component {

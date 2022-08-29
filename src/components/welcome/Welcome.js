@@ -1,7 +1,8 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'; import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import './Welcome.scss';
 import Board from '../Boards/board/board'
 import Action from '../Actions/action/Action'
+import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import { CSSTransition } from 'react-transition-group';
 import { Analytics } from '../Analytics'
 // Models 

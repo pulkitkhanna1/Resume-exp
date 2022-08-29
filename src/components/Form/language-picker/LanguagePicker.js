@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'; import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import './LanguagePicker.scss'
 import UsFlag from '../../../assets/countries/united-states.png'
 import DenmarkFlag from '../../../assets/countries/denmark.png'

@@ -1,6 +1,7 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'; import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import Lottie from 'react-lottie';
 import './initialisationSetup.scss'
+import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import successAnimation from '../../../assets/animations/lottie-success.json'
 import Input from '../../Form/simple-input/SimpleInput'
 import conf from '../../../conf/configuration'

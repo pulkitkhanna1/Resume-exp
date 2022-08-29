@@ -1,9 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {
-  BrowserRouter as Router,
-  Route,
-} from "react-router-dom";
+import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import './index.scss';
 import Welcome from './components/welcome/Welcome';
 import Dashboard from './components/Dashboard/DashboardMain/DashboardMain'
